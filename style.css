@@ -94,6 +94,7 @@ header {
   margin-top: 5px;
   background-color: wheat;
   border: 2px solid black;
+  border-radius: 50%;
   transition: transfrom 300ms ease-in;
 }
 
